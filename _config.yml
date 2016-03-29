@@ -1,7 +1,7 @@
 name: 'ShutterLab '
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.10517
+typography_spectrum: 0.16458
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#191919'
     - '#515151'
     - '#c8c8c8'
-  brandStrength: 1
-  lightness: 0.5
+  brandStrength: 0.8125
+  lightness: 0.8125
   saturation: 1
   rhythmicContrast: 0.25
 purpose: []
